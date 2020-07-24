@@ -36,7 +36,7 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 
 <br>
 <p align="center">
-  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/planning.png">
+  <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/planning.png">
 </p>
 <p align='center'><b>Beta Bootcamp Schedule</b></p>
 <br>
